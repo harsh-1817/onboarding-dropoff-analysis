@@ -1,0 +1,174 @@
+{
+  "signups": 20000,
+  "period": "01 Apr 2026 to 31 Aug 2026",
+  "activated": 5964,
+  "activation_rate": 0.2982,
+  "funded": 3462,
+  "funded_rate": 0.1731,
+  "traded": 2428,
+  "traded_rate": 0.1214,
+  "step_conv": {
+    "1": 0.90175,
+    "2": 0.7014139173828666,
+    "3": 0.8011857707509882,
+    "4": 0.9184015786877159,
+    "5": 0.9050279329608939,
+    "6": 0.853988603988604,
+    "7": 0.896163469557965,
+    "8": 0.9250814332247557,
+    "9": 0.5804828973843058,
+    "10": 0.7013287117273252
+  },
+  "lost": {
+    "1": 1965,
+    "2": 5385,
+    "3": 2515,
+    "4": 827,
+    "5": 884,
+    "6": 1230,
+    "7": 747,
+    "8": 483,
+    "9": 2502,
+    "10": 1034
+  },
+  "kyc_aadhaar_unlinked": 0.3333333333333333,
+  "kyc_aadhaar_linked": 0.7524464928341436,
+  "kyc_late": 0.619348054679285,
+  "kyc_morning": 0.7172139719723907,
+  "kyc_low": 0.6482355161351199,
+  "kyc_ios": 0.756189282356628,
+  "kyc_55": 0.5904761904761905,
+  "kyc_25_34": 0.6988745539390612,
+  "bank_pnb": 0.684971098265896,
+  "bank_coop": 0.6357997341603899,
+  "bank_hdfc": 0.8804966373512675,
+  "bank_overall": 0.8011857707509882,
+  "selfie_low": 0.7960108794197642,
+  "selfie_ios": 0.914375,
+  "selfie_web": 0.8387824126268321,
+  "esign_unlinked": 0.7668161434977578,
+  "esign_linked": 0.9047125074096029,
+  "fno_income": 0.8308256880733945,
+  "cash_income": 0.9357435819535166,
+  "fund_referral": 0.6766595289079229,
+  "fund_influencer": 0.5005268703898841,
+  "act_referral": 0.32933709449929477,
+  "act_influencer": 0.26717342342342343,
+  "act_offline": 0.12448132780082988,
+  "act_digital": 0.3220011370096646,
+  "offline_users": 2410,
+  "unknown_reason_share": 0.36808559071249713,
+  "top_reason_categories": [
+    [
+      "Unknown (no reason captured)",
+      6468,
+      0.36808559071249713
+    ],
+    [
+      "KYC eligibility / documents",
+      2991,
+      0.1702139767812429
+    ],
+    [
+      "Technical / system",
+      2956,
+      0.16822217163669473
+    ],
+    [
+      "Device / UX friction",
+      1761,
+      0.10021625312997952
+    ],
+    [
+      "Intent / affordability",
+      1533,
+      0.08724106533120875
+    ],
+    [
+      "Bank verification",
+      1300,
+      0.07398133394035966
+    ]
+  ],
+  "median_hours_to_activate": 39.86888888888889,
+  "median_hours_digital": 38.800555555555555,
+  "median_hours_offline": 70.89402777777778,
+  "pct_activated_within_24h": 0.2759892689470154,
+  "lat3": {
+    "0-30s": [
+      2248,
+      0.8625444839857651
+    ],
+    "30-120s": [
+      6461,
+      0.853273487076304
+    ],
+    "120-300s": [
+      2889,
+      0.7223952924887505
+    ],
+    "300s+": [
+      1052,
+      0.5665399239543726
+    ]
+  },
+  "levers": [
+    {
+      "lever_id": "L1a",
+      "excess_lost_vs_rest": 920,
+      "gap_pp": 41.9113,
+      "seg_entered": 2196,
+      "seg_conv": 0.3333,
+      "rest_conv": 0.7524
+    },
+    {
+      "lever_id": "L1b",
+      "excess_lost_vs_rest": 62,
+      "gap_pp": 13.7896,
+      "seg_entered": 446,
+      "seg_conv": 0.7668,
+      "rest_conv": 0.9047
+    },
+    {
+      "lever_id": "L2",
+      "excess_lost_vs_rest": 733,
+      "gap_pp": 18.5607,
+      "seg_entered": 3948,
+      "seg_conv": 0.6735,
+      "rest_conv": 0.8591
+    },
+    {
+      "lever_id": "L3",
+      "excess_lost_vs_rest": 150,
+      "gap_pp": 8.9268,
+      "seg_entered": 1677,
+      "seg_conv": 0.6726,
+      "rest_conv": 0.7619
+    },
+    {
+      "lever_id": "L4",
+      "excess_lost_vs_rest": 230,
+      "gap_pp": 7.3786,
+      "seg_entered": 3123,
+      "seg_conv": 0.8076,
+      "rest_conv": 0.8813
+    },
+    {
+      "lever_id": "L5",
+      "excess_lost_vs_rest": 157,
+      "gap_pp": 11.1744,
+      "seg_entered": 1402,
+      "seg_conv": 0.495,
+      "rest_conv": 0.6068
+    },
+    {
+      "lever_id": "L6",
+      "excess_lost_vs_rest": 286,
+      "gap_pp": 10.4918,
+      "seg_entered": 2725,
+      "seg_conv": 0.8308,
+      "rest_conv": 0.9357
+    }
+  ],
+  "months_in_period": 4.99
+}

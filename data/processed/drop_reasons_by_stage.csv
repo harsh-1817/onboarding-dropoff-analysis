@@ -1,0 +1,41 @@
+stage_order,drop_reason,reason_category,users,stage_short,pct_of_stage_drops
+1,OTP_NOT_RECEIVED,Technical / system,898,Registration,0.457
+1,ABANDONED_NO_REASON,Unknown (no reason captured),787,Registration,0.40051
+1,EMAIL_VERIFICATION_ISSUE,Technical / system,280,Registration,0.14249
+2,ABANDONED_NO_REASON,Unknown (no reason captured),1844,KYC,0.34243
+2,AADHAAR_MOBILE_NOT_LINKED,KYC eligibility / documents,1009,KYC,0.18737
+2,DIGILOCKER_TIMEOUT,Technical / system,901,KYC,0.16732
+2,PAN_AADHAAR_NAME_MISMATCH,KYC eligibility / documents,594,KYC,0.11031
+2,OTP_NOT_RECEIVED,Technical / system,347,KYC,0.06444
+2,PAN_NOT_AVAILABLE,KYC eligibility / documents,339,KYC,0.06295
+2,DEFERRED_NEVER_RETURNED,Left intending to return,202,KYC,0.03751
+2,DIGILOCKER_ERROR,Technical / system,149,KYC,0.02767
+3,ABANDONED_NO_REASON,Unknown (no reason captured),834,Bank,0.33161
+3,PENNY_DROP_FAILED,Bank verification,768,Bank,0.30537
+3,VERIFICATION_TIMEOUT,Technical / system,381,Bank,0.15149
+3,BANK_NAME_MISMATCH,Bank verification,336,Bank,0.1336
+3,BANK_NOT_SUPPORTED,Bank verification,196,Bank,0.07793
+4,ABANDONED_NO_REASON,Unknown (no reason captured),448,Details,0.54172
+4,NOMINEE_DETAILS_UNAVAILABLE,KYC eligibility / documents,233,Details,0.28174
+4,TOO_MANY_FIELDS,Device / UX friction,146,Details,0.17654
+5,ABANDONED_NO_REASON,Unknown (no reason captured),403,Segments,0.45588
+5,INCOME_PROOF_UNAVAILABLE,KYC eligibility / documents,262,Segments,0.29638
+5,SEGMENT_CONFUSION,Device / UX friction,219,Segments,0.24774
+6,SELFIE_FAILED_LIGHTING,Device / UX friction,416,Selfie/IPV,0.33821
+6,ABANDONED_NO_REASON,Unknown (no reason captured),369,Selfie/IPV,0.3
+6,LIVENESS_CHECK_FAILED,Device / UX friction,251,Selfie/IPV,0.20407
+6,CAMERA_PERMISSION_DENIED,Device / UX friction,194,Selfie/IPV,0.15772
+7,ABANDONED_NO_REASON,Unknown (no reason captured),338,e-Sign,0.45248
+7,ESIGN_OTP_FAILED,Device / UX friction,282,e-Sign,0.37751
+7,PHYSICAL_SIGNATURE_COURIER_PENDING,KYC eligibility / documents,71,e-Sign,0.09505
+7,BROKERAGE_CHARGES_CONCERN,Intent / affordability,56,e-Sign,0.07497
+8,KYC_REJECTED_NAME_MISMATCH,KYC eligibility / documents,176,Approval,0.36439
+8,KYC_REJECTED_POOR_DOCUMENT,KYC eligibility / documents,160,Approval,0.33126
+8,REJECTED_OTHER,KYC eligibility / documents,147,Approval,0.30435
+9,ABANDONED_NO_REASON,Unknown (no reason captured),982,Funding,0.39249
+9,NO_FUNDS_TO_ADD,Intent / affordability,791,Funding,0.31615
+9,WAITING_FOR_MARKET_DIP,Intent / affordability,368,Funding,0.14708
+9,UPI_PAYMENT_FAILED,Payment,361,Funding,0.14428
+10,ABANDONED_NO_REASON,Unknown (no reason captured),463,First trade,0.44778
+10,NO_TRADING_IDEA,Intent / affordability,318,First trade,0.30754
+10,PLATFORM_COMPLEXITY,Device / UX friction,253,First trade,0.24468

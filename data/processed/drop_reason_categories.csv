@@ -1,0 +1,9 @@
+reason_category,users,share,cumulative_share
+Unknown (no reason captured),6468,0.36809,0.36809
+KYC eligibility / documents,2991,0.17021,0.5383
+Technical / system,2956,0.16822,0.70652
+Device / UX friction,1761,0.10022,0.80674
+Intent / affordability,1533,0.08724,0.89398
+Bank verification,1300,0.07398,0.96796
+Payment,361,0.02054,0.9885
+Left intending to return,202,0.0115,1.0

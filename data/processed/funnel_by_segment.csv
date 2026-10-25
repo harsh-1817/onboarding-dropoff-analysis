@@ -1,0 +1,411 @@
+segment_type,segment_value,stage_order,entered,completed,stage_short,step_conversion
+Channel,Google Ads,1,4393,3976,Registration,0.90508
+Channel,Google Ads,2,3976,2786,KYC,0.7007
+Channel,Google Ads,3,2786,2224,Bank,0.79828
+Channel,Google Ads,4,2224,2034,Details,0.91457
+Channel,Google Ads,5,2034,1844,Segments,0.90659
+Channel,Google Ads,6,1844,1581,Selfie/IPV,0.85738
+Channel,Google Ads,7,1581,1415,e-Sign,0.895
+Channel,Google Ads,8,1415,1315,Approval,0.92933
+Channel,Google Ads,9,1315,755,Funding,0.57414
+Channel,Google Ads,10,755,529,First trade,0.70066
+Channel,Influencer / YouTube,1,3552,3048,Registration,0.85811
+Channel,Influencer / YouTube,2,3048,2040,KYC,0.66929
+Channel,Influencer / YouTube,3,2040,1647,Bank,0.80735
+Channel,Influencer / YouTube,4,1647,1486,Details,0.90225
+Channel,Influencer / YouTube,5,1486,1313,Segments,0.88358
+Channel,Influencer / YouTube,6,1313,1117,Selfie/IPV,0.85072
+Channel,Influencer / YouTube,7,1117,1014,e-Sign,0.90779
+Channel,Influencer / YouTube,8,1014,949,Approval,0.9359
+Channel,Influencer / YouTube,9,949,475,Funding,0.50053
+Channel,Influencer / YouTube,10,475,316,First trade,0.66526
+Channel,Meta / social ads,1,1587,1386,Registration,0.87335
+Channel,Meta / social ads,2,1386,928,KYC,0.66955
+Channel,Meta / social ads,3,928,748,Bank,0.80603
+Channel,Meta / social ads,4,748,683,Details,0.9131
+Channel,Meta / social ads,5,683,623,Segments,0.91215
+Channel,Meta / social ads,6,623,544,Selfie/IPV,0.87319
+Channel,Meta / social ads,7,544,486,e-Sign,0.89338
+Channel,Meta / social ads,8,486,453,Approval,0.9321
+Channel,Meta / social ads,9,453,219,Funding,0.48344
+Channel,Meta / social ads,10,219,143,First trade,0.65297
+Channel,Organic,1,5649,5166,Registration,0.9145
+Channel,Organic,2,5166,3633,KYC,0.70325
+Channel,Organic,3,3633,2867,Bank,0.78915
+Channel,Organic,4,2867,2665,Details,0.92954
+Channel,Organic,5,2665,2418,Segments,0.90732
+Channel,Organic,6,2418,2050,Selfie/IPV,0.84781
+Channel,Organic,7,2050,1834,e-Sign,0.89463
+Channel,Organic,8,1834,1676,Approval,0.91385
+Channel,Organic,9,1676,990,Funding,0.59069
+Channel,Organic,10,990,709,First trade,0.71616
+Channel,Partner / sub-broker,1,1983,1805,Registration,0.91024
+Channel,Partner / sub-broker,2,1805,1287,KYC,0.71302
+Channel,Partner / sub-broker,3,1287,1048,Bank,0.8143
+Channel,Partner / sub-broker,4,1048,975,Details,0.93034
+Channel,Partner / sub-broker,5,975,876,Segments,0.89846
+Channel,Partner / sub-broker,6,876,755,Selfie/IPV,0.86187
+Channel,Partner / sub-broker,7,755,684,e-Sign,0.90596
+Channel,Partner / sub-broker,8,684,637,Approval,0.93129
+Channel,Partner / sub-broker,9,637,391,Funding,0.61381
+Channel,Partner / sub-broker,10,391,285,First trade,0.7289
+Channel,Referral,1,2836,2654,Registration,0.93583
+Channel,Referral,2,2654,1976,KYC,0.74454
+Channel,Referral,3,1976,1601,Bank,0.81022
+Channel,Referral,4,1601,1465,Details,0.91505
+Channel,Referral,5,1465,1350,Segments,0.9215
+Channel,Referral,6,1350,1147,Selfie/IPV,0.84963
+Channel,Referral,7,1147,1014,e-Sign,0.88405
+Channel,Referral,8,1014,934,Approval,0.9211
+Channel,Referral,9,934,632,Funding,0.67666
+Channel,Referral,10,632,446,First trade,0.7057
+Device OS,Android,1,14456,13021,Registration,0.90073
+Device OS,Android,2,13021,8955,KYC,0.68774
+Device OS,Android,3,8955,7145,Bank,0.79788
+Device OS,Android,4,7145,6550,Details,0.91672
+Device OS,Android,5,6550,5937,Segments,0.90641
+Device OS,Android,6,5937,4987,Selfie/IPV,0.83999
+Device OS,Android,7,4987,4471,e-Sign,0.89653
+Device OS,Android,8,4471,4141,Approval,0.92619
+Device OS,Android,9,4141,2383,Funding,0.57546
+Device OS,Android,10,2383,1631,First trade,0.68443
+Device OS,Web,1,2005,1823,Registration,0.90923
+Device OS,Web,2,1823,1282,KYC,0.70324
+Device OS,Web,3,1282,1035,Bank,0.80733
+Device OS,Web,4,1035,970,Details,0.9372
+Device OS,Web,5,970,887,Segments,0.91443
+Device OS,Web,6,887,744,Selfie/IPV,0.83878
+Device OS,Web,7,744,675,e-Sign,0.90726
+Device OS,Web,8,675,618,Approval,0.91556
+Device OS,Web,9,618,368,Funding,0.59547
+Device OS,Web,10,368,267,First trade,0.72554
+Device OS,iOS,1,3539,3191,Registration,0.90167
+Device OS,iOS,2,3191,2413,KYC,0.75619
+Device OS,iOS,3,2413,1955,Bank,0.81019
+Device OS,iOS,4,1955,1788,Details,0.91458
+Device OS,iOS,5,1788,1600,Segments,0.89485
+Device OS,iOS,6,1600,1463,Selfie/IPV,0.91438
+Device OS,iOS,7,1463,1301,e-Sign,0.88927
+Device OS,iOS,8,1301,1205,Approval,0.92621
+Device OS,iOS,9,1205,711,Funding,0.59004
+Device OS,iOS,10,711,530,First trade,0.74543
+Device tier,Desktop,1,2005,1823,Registration,0.90923
+Device tier,Desktop,2,1823,1282,KYC,0.70324
+Device tier,Desktop,3,1282,1035,Bank,0.80733
+Device tier,Desktop,4,1035,970,Details,0.9372
+Device tier,Desktop,5,970,887,Segments,0.91443
+Device tier,Desktop,6,887,744,Selfie/IPV,0.83878
+Device tier,Desktop,7,744,675,e-Sign,0.90726
+Device tier,Desktop,8,675,618,Approval,0.91556
+Device tier,Desktop,9,618,368,Funding,0.59547
+Device tier,Desktop,10,368,267,First trade,0.72554
+Device tier,High-end,1,5457,4922,Registration,0.90196
+Device tier,High-end,2,4922,3642,KYC,0.73994
+Device tier,High-end,3,3642,2969,Bank,0.81521
+Device tier,High-end,4,2969,2709,Details,0.91243
+Device tier,High-end,5,2709,2426,Segments,0.89553
+Device tier,High-end,6,2426,2195,Selfie/IPV,0.90478
+Device tier,High-end,7,2195,1969,e-Sign,0.89704
+Device tier,High-end,8,1969,1827,Approval,0.92788
+Device tier,High-end,9,1827,1073,Funding,0.5873
+Device tier,High-end,10,1073,797,First trade,0.74278
+Device tier,Low-end,1,5875,5299,Registration,0.90196
+Device tier,Low-end,2,5299,3435,KYC,0.64824
+Device tier,Low-end,3,3435,2634,Bank,0.76681
+Device tier,Low-end,4,2634,2426,Details,0.92103
+Device tier,Low-end,5,2426,2206,Segments,0.90932
+Device tier,Low-end,6,2206,1756,Selfie/IPV,0.79601
+Device tier,Low-end,7,1756,1576,e-Sign,0.89749
+Device tier,Low-end,8,1576,1453,Approval,0.92195
+Device tier,Low-end,9,1453,824,Funding,0.5671
+Device tier,Low-end,10,824,586,First trade,0.71117
+Device tier,Mid-range,1,6663,5991,Registration,0.89914
+Device tier,Mid-range,2,5991,4291,KYC,0.71624
+Device tier,Mid-range,3,4291,3497,Bank,0.81496
+Device tier,Mid-range,4,3497,3203,Details,0.91593
+Device tier,Mid-range,5,3203,2905,Segments,0.90696
+Device tier,Mid-range,6,2905,2499,Selfie/IPV,0.86024
+Device tier,Mid-range,7,2499,2227,e-Sign,0.89116
+Device tier,Mid-range,8,2227,2066,Approval,0.92771
+Device tier,Mid-range,9,2066,1197,Funding,0.57938
+Device tier,Mid-range,10,1197,778,First trade,0.64996
+City tier,Tier 1,1,7068,6397,Registration,0.90507
+City tier,Tier 1,2,6397,4594,KYC,0.71815
+City tier,Tier 1,3,4594,3779,Bank,0.82259
+City tier,Tier 1,4,3779,3471,Details,0.9185
+City tier,Tier 1,5,3471,3125,Segments,0.90032
+City tier,Tier 1,6,3125,2686,Selfie/IPV,0.85952
+City tier,Tier 1,7,2686,2413,e-Sign,0.89836
+City tier,Tier 1,8,2413,2237,Approval,0.92706
+City tier,Tier 1,9,2237,1372,Funding,0.61332
+City tier,Tier 1,10,1372,949,First trade,0.69169
+City tier,Tier 2,1,7533,6792,Registration,0.90163
+City tier,Tier 2,2,6792,4865,KYC,0.71628
+City tier,Tier 2,3,4865,4030,Bank,0.82837
+City tier,Tier 2,4,4030,3698,Details,0.91762
+City tier,Tier 2,5,3698,3355,Segments,0.90725
+City tier,Tier 2,6,3355,2826,Selfie/IPV,0.84232
+City tier,Tier 2,7,2826,2521,e-Sign,0.89207
+City tier,Tier 2,8,2521,2340,Approval,0.9282
+City tier,Tier 2,9,2340,1349,Funding,0.5765
+City tier,Tier 2,10,1349,949,First trade,0.70348
+City tier,Tier 3,1,5399,4846,Registration,0.89757
+City tier,Tier 3,2,4846,3191,KYC,0.65848
+City tier,Tier 3,3,3191,2326,Bank,0.72893
+City tier,Tier 3,4,2326,2139,Details,0.9196
+City tier,Tier 3,5,2139,1944,Segments,0.90884
+City tier,Tier 3,6,1944,1682,Selfie/IPV,0.86523
+City tier,Tier 3,7,1682,1513,e-Sign,0.89952
+City tier,Tier 3,8,1513,1387,Approval,0.91672
+City tier,Tier 3,9,1387,741,Funding,0.53425
+City tier,Tier 3,10,741,530,First trade,0.71525
+Age group,18-24,1,4051,3632,Registration,0.89657
+Age group,18-24,2,3632,2604,KYC,0.71696
+Age group,18-24,3,2604,2075,Bank,0.79685
+Age group,18-24,4,2075,1922,Details,0.92627
+Age group,18-24,5,1922,1733,Segments,0.90166
+Age group,18-24,6,1733,1460,Selfie/IPV,0.84247
+Age group,18-24,7,1460,1292,e-Sign,0.88493
+Age group,18-24,8,1292,1194,Approval,0.92415
+Age group,18-24,9,1194,693,Funding,0.5804
+Age group,18-24,10,693,470,First trade,0.67821
+Age group,25-34,1,8055,7286,Registration,0.90453
+Age group,25-34,2,7286,5092,KYC,0.69887
+Age group,25-34,3,5092,4103,Bank,0.80577
+Age group,25-34,4,4103,3758,Details,0.91592
+Age group,25-34,5,3758,3404,Segments,0.9058
+Age group,25-34,6,3404,2926,Selfie/IPV,0.85958
+Age group,25-34,7,2926,2643,e-Sign,0.90328
+Age group,25-34,8,2643,2456,Approval,0.92925
+Age group,25-34,9,2456,1453,Funding,0.59161
+Age group,25-34,10,1453,1003,First trade,0.6903
+Age group,35-44,1,6256,5642,Registration,0.90185
+Age group,35-44,2,5642,3925,KYC,0.69568
+Age group,35-44,3,3925,3140,Bank,0.8
+Age group,35-44,4,3140,2875,Details,0.91561
+Age group,35-44,5,2875,2606,Segments,0.90643
+Age group,35-44,6,2606,2245,Selfie/IPV,0.86147
+Age group,35-44,7,2245,2011,e-Sign,0.89577
+Age group,35-44,8,2011,1852,Approval,0.92093
+Age group,35-44,9,1852,1051,Funding,0.56749
+Age group,35-44,10,1051,769,First trade,0.73168
+Age group,45-54,1,1522,1370,Registration,0.90013
+Age group,45-54,2,1370,967,KYC,0.70584
+Age group,45-54,3,967,762,Bank,0.788
+Age group,45-54,4,762,701,Details,0.91995
+Age group,45-54,5,701,633,Segments,0.903
+Age group,45-54,6,633,527,Selfie/IPV,0.83254
+Age group,45-54,7,527,470,e-Sign,0.89184
+Age group,45-54,8,470,432,Approval,0.91915
+Age group,45-54,9,432,250,Funding,0.5787
+Age group,45-54,10,250,175,First trade,0.7
+Age group,55+,1,116,105,Registration,0.90517
+Age group,55+,2,105,62,KYC,0.59048
+Age group,55+,3,62,55,Bank,0.8871
+Age group,55+,4,55,52,Details,0.94545
+Age group,55+,5,52,48,Segments,0.92308
+Age group,55+,6,48,36,Selfie/IPV,0.75
+Age group,55+,7,36,31,e-Sign,0.86111
+Age group,55+,8,31,30,Approval,0.96774
+Age group,55+,9,30,15,Funding,0.5
+Age group,55+,10,15,11,First trade,0.73333
+Bank,Axis Bank,1,1765,1574,Registration,0.89178
+Bank,Axis Bank,2,1574,1115,KYC,0.70839
+Bank,Axis Bank,3,1115,967,Bank,0.86726
+Bank,Axis Bank,4,967,893,Details,0.92347
+Bank,Axis Bank,5,893,804,Segments,0.90034
+Bank,Axis Bank,6,804,700,Selfie/IPV,0.87065
+Bank,Axis Bank,7,700,622,e-Sign,0.88857
+Bank,Axis Bank,8,622,563,Approval,0.90514
+Bank,Axis Bank,9,563,344,Funding,0.61101
+Bank,Axis Bank,10,344,240,First trade,0.69767
+Bank,Bank of Baroda,1,1009,911,Registration,0.90287
+Bank,Bank of Baroda,2,911,653,KYC,0.71679
+Bank,Bank of Baroda,3,653,513,Bank,0.7856
+Bank,Bank of Baroda,4,513,475,Details,0.92593
+Bank,Bank of Baroda,5,475,440,Segments,0.92632
+Bank,Bank of Baroda,6,440,371,Selfie/IPV,0.84318
+Bank,Bank of Baroda,7,371,332,e-Sign,0.89488
+Bank,Bank of Baroda,8,332,305,Approval,0.91867
+Bank,Bank of Baroda,9,305,178,Funding,0.58361
+Bank,Bank of Baroda,10,178,130,First trade,0.73034
+Bank,Canara Bank,1,702,633,Registration,0.90171
+Bank,Canara Bank,2,633,452,KYC,0.71406
+Bank,Canara Bank,3,452,368,Bank,0.81416
+Bank,Canara Bank,4,368,338,Details,0.91848
+Bank,Canara Bank,5,338,314,Segments,0.92899
+Bank,Canara Bank,6,314,268,Selfie/IPV,0.8535
+Bank,Canara Bank,7,268,240,e-Sign,0.89552
+Bank,Canara Bank,8,240,225,Approval,0.9375
+Bank,Canara Bank,9,225,137,Funding,0.60889
+Bank,Canara Bank,10,137,99,First trade,0.72263
+Bank,Co-operative / other,1,3669,3296,Registration,0.89834
+Bank,Co-operative / other,2,3296,2257,KYC,0.68477
+Bank,Co-operative / other,3,2257,1435,Bank,0.6358
+Bank,Co-operative / other,4,1435,1309,Details,0.9122
+Bank,Co-operative / other,5,1309,1177,Segments,0.89916
+Bank,Co-operative / other,6,1177,1021,Selfie/IPV,0.86746
+Bank,Co-operative / other,7,1021,909,e-Sign,0.8903
+Bank,Co-operative / other,8,909,856,Approval,0.94169
+Bank,Co-operative / other,9,856,463,Funding,0.54089
+Bank,Co-operative / other,10,463,330,First trade,0.71274
+Bank,HDFC Bank,1,2992,2699,Registration,0.90207
+Bank,HDFC Bank,2,2699,1933,KYC,0.71619
+Bank,HDFC Bank,3,1933,1702,Bank,0.8805
+Bank,HDFC Bank,4,1702,1558,Details,0.91539
+Bank,HDFC Bank,5,1558,1419,Segments,0.91078
+Bank,HDFC Bank,6,1419,1197,Selfie/IPV,0.84355
+Bank,HDFC Bank,7,1197,1074,e-Sign,0.89724
+Bank,HDFC Bank,8,1074,1000,Approval,0.9311
+Bank,HDFC Bank,9,1000,601,Funding,0.601
+Bank,HDFC Bank,10,601,421,First trade,0.7005
+Bank,ICICI Bank,1,2342,2131,Registration,0.90991
+Bank,ICICI Bank,2,2131,1504,KYC,0.70577
+Bank,ICICI Bank,3,1504,1328,Bank,0.88298
+Bank,ICICI Bank,4,1328,1217,Details,0.91642
+Bank,ICICI Bank,5,1217,1085,Segments,0.89154
+Bank,ICICI Bank,6,1085,917,Selfie/IPV,0.84516
+Bank,ICICI Bank,7,917,822,e-Sign,0.8964
+Bank,ICICI Bank,8,822,766,Approval,0.93187
+Bank,ICICI Bank,9,766,444,Funding,0.57963
+Bank,ICICI Bank,10,444,307,First trade,0.69144
+Bank,Kotak Mahindra Bank,1,974,880,Registration,0.90349
+Bank,Kotak Mahindra Bank,2,880,631,KYC,0.71705
+Bank,Kotak Mahindra Bank,3,631,558,Bank,0.88431
+Bank,Kotak Mahindra Bank,4,558,511,Details,0.91577
+Bank,Kotak Mahindra Bank,5,511,472,Segments,0.92368
+Bank,Kotak Mahindra Bank,6,472,387,Selfie/IPV,0.81992
+Bank,Kotak Mahindra Bank,7,387,354,e-Sign,0.91473
+Bank,Kotak Mahindra Bank,8,354,330,Approval,0.9322
+Bank,Kotak Mahindra Bank,9,330,194,Funding,0.58788
+Bank,Kotak Mahindra Bank,10,194,143,First trade,0.73711
+Bank,Punjab National Bank,1,1614,1456,Registration,0.90211
+Bank,Punjab National Bank,2,1456,1038,KYC,0.71291
+Bank,Punjab National Bank,3,1038,711,Bank,0.68497
+Bank,Punjab National Bank,4,711,660,Details,0.92827
+Bank,Punjab National Bank,5,660,594,Segments,0.9
+Bank,Punjab National Bank,6,594,494,Selfie/IPV,0.83165
+Bank,Punjab National Bank,7,494,440,e-Sign,0.89069
+Bank,Punjab National Bank,8,440,411,Approval,0.93409
+Bank,Punjab National Bank,9,411,220,Funding,0.53528
+Bank,Punjab National Bank,10,220,159,First trade,0.72273
+Bank,SBI,1,4373,3942,Registration,0.90144
+Bank,SBI,2,3942,2726,KYC,0.69153
+Bank,SBI,3,2726,2277,Bank,0.83529
+Bank,SBI,4,2277,2094,Details,0.91963
+Bank,SBI,5,2094,1888,Segments,0.90162
+Bank,SBI,6,1888,1634,Selfie/IPV,0.86547
+Bank,SBI,7,1634,1477,e-Sign,0.90392
+Bank,SBI,8,1477,1345,Approval,0.91063
+Bank,SBI,9,1345,788,Funding,0.58587
+Bank,SBI,10,788,530,First trade,0.67259
+Bank,Union Bank,1,560,513,Registration,0.91607
+Bank,Union Bank,2,513,341,KYC,0.66472
+Bank,Union Bank,3,341,276,Bank,0.80938
+Bank,Union Bank,4,276,253,Details,0.91667
+Bank,Union Bank,5,253,231,Segments,0.91304
+Bank,Union Bank,6,231,205,Selfie/IPV,0.88745
+Bank,Union Bank,7,205,177,e-Sign,0.86341
+Bank,Union Bank,8,177,163,Approval,0.9209
+Bank,Union Bank,9,163,93,Funding,0.57055
+Bank,Union Bank,10,93,69,First trade,0.74194
+KYC path,DigiLocker (digital),1,17590,15839,Registration,0.90045
+KYC path,DigiLocker (digital),2,15839,11918,KYC,0.75245
+KYC path,DigiLocker (digital),3,11918,9542,Bank,0.80064
+KYC path,DigiLocker (digital),4,9542,8748,Details,0.91679
+KYC path,DigiLocker (digital),5,8748,7916,Segments,0.90489
+KYC path,DigiLocker (digital),6,7916,6748,Selfie/IPV,0.85245
+KYC path,DigiLocker (digital),7,6748,6105,e-Sign,0.90471
+KYC path,DigiLocker (digital),8,6105,5664,Approval,0.92776
+KYC path,DigiLocker (digital),9,5664,3273,Funding,0.57786
+KYC path,DigiLocker (digital),10,3273,2295,First trade,0.70119
+KYC path,Offline / manual,1,2410,2196,Registration,0.9112
+KYC path,Offline / manual,2,2196,732,KYC,0.33333
+KYC path,Offline / manual,3,732,593,Bank,0.81011
+KYC path,Offline / manual,4,593,560,Details,0.94435
+KYC path,Offline / manual,5,560,508,Segments,0.90714
+KYC path,Offline / manual,6,508,446,Selfie/IPV,0.87795
+KYC path,Offline / manual,7,446,342,e-Sign,0.76682
+KYC path,Offline / manual,8,342,300,Approval,0.87719
+KYC path,Offline / manual,9,300,189,Funding,0.63
+KYC path,Offline / manual,10,189,133,First trade,0.7037
+Trading interest,Cash / delivery only,1,13945,12623,Registration,0.9052
+Trading interest,Cash / delivery only,2,12623,8900,KYC,0.70506
+Trading interest,Cash / delivery only,3,8900,7144,Bank,0.8027
+Trading interest,Cash / delivery only,4,7144,6583,Details,0.92147
+Trading interest,Cash / delivery only,5,6583,6160,Segments,0.93574
+Trading interest,Cash / delivery only,6,6160,5264,Selfie/IPV,0.85455
+Trading interest,Cash / delivery only,7,5264,4717,e-Sign,0.89609
+Trading interest,Cash / delivery only,8,4717,4379,Approval,0.92834
+Trading interest,Cash / delivery only,9,4379,2481,Funding,0.56657
+Trading interest,Cash / delivery only,10,2481,1726,First trade,0.69569
+Trading interest,Wants F&O,1,6055,5412,Registration,0.89381
+Trading interest,Wants F&O,2,5412,3750,KYC,0.6929
+Trading interest,Wants F&O,3,3750,2991,Bank,0.7976
+Trading interest,Wants F&O,4,2991,2725,Details,0.91107
+Trading interest,Wants F&O,5,2725,2264,Segments,0.83083
+Trading interest,Wants F&O,6,2264,1930,Selfie/IPV,0.85247
+Trading interest,Wants F&O,7,1930,1730,e-Sign,0.89637
+Trading interest,Wants F&O,8,1730,1585,Approval,0.91618
+Trading interest,Wants F&O,9,1585,981,Funding,0.61893
+Trading interest,Wants F&O,10,981,702,First trade,0.7156
+Signup time,Afternoon (12-17),1,6188,5613,Registration,0.90708
+Signup time,Afternoon (12-17),2,5613,3938,KYC,0.70159
+Signup time,Afternoon (12-17),3,3938,3149,Bank,0.79964
+Signup time,Afternoon (12-17),4,3149,2899,Details,0.92061
+Signup time,Afternoon (12-17),5,2899,2592,Segments,0.8941
+Signup time,Afternoon (12-17),6,2592,2227,Selfie/IPV,0.85918
+Signup time,Afternoon (12-17),7,2227,1999,e-Sign,0.89762
+Signup time,Afternoon (12-17),8,1999,1839,Approval,0.91996
+Signup time,Afternoon (12-17),9,1839,1053,Funding,0.57259
+Signup time,Afternoon (12-17),10,1053,726,First trade,0.68946
+Signup time,Evening (18-21),1,6392,5739,Registration,0.89784
+Signup time,Evening (18-21),2,5739,4105,KYC,0.71528
+Signup time,Evening (18-21),3,4105,3290,Bank,0.80146
+Signup time,Evening (18-21),4,3290,3015,Details,0.91641
+Signup time,Evening (18-21),5,3015,2728,Segments,0.90481
+Signup time,Evening (18-21),6,2728,2339,Selfie/IPV,0.8574
+Signup time,Evening (18-21),7,2339,2090,e-Sign,0.89354
+Signup time,Evening (18-21),8,2090,1933,Approval,0.92488
+Signup time,Evening (18-21),9,1933,1098,Funding,0.56803
+Signup time,Evening (18-21),10,1098,769,First trade,0.70036
+Signup time,Late night (22-05),1,2093,1902,Registration,0.90874
+Signup time,Late night (22-05),2,1902,1178,KYC,0.61935
+Signup time,Late night (22-05),3,1178,950,Bank,0.80645
+Signup time,Late night (22-05),4,950,882,Details,0.92842
+Signup time,Late night (22-05),5,882,808,Segments,0.9161
+Signup time,Late night (22-05),6,808,646,Selfie/IPV,0.7995
+Signup time,Late night (22-05),7,646,578,e-Sign,0.89474
+Signup time,Late night (22-05),8,578,544,Approval,0.94118
+Signup time,Late night (22-05),9,544,312,Funding,0.57353
+Signup time,Late night (22-05),10,312,222,First trade,0.71154
+Signup time,Morning (06-11),1,5327,4781,Registration,0.8975
+Signup time,Morning (06-11),2,4781,3429,KYC,0.71721
+Signup time,Morning (06-11),3,3429,2746,Bank,0.80082
+Signup time,Morning (06-11),4,2746,2512,Details,0.91479
+Signup time,Morning (06-11),5,2512,2296,Segments,0.91401
+Signup time,Morning (06-11),6,2296,1982,Selfie/IPV,0.86324
+Signup time,Morning (06-11),7,1982,1780,e-Sign,0.89808
+Signup time,Morning (06-11),8,1780,1648,Approval,0.92584
+Signup time,Morning (06-11),9,1648,999,Funding,0.60619
+Signup time,Morning (06-11),10,999,711,First trade,0.71171
+Campaign day,IPO / market-rally spike,1,1934,1714,Registration,0.88625
+Campaign day,IPO / market-rally spike,2,1714,1155,KYC,0.67386
+Campaign day,IPO / market-rally spike,3,1155,921,Bank,0.7974
+Campaign day,IPO / market-rally spike,4,921,842,Details,0.91422
+Campaign day,IPO / market-rally spike,5,842,773,Segments,0.91805
+Campaign day,IPO / market-rally spike,6,773,672,Selfie/IPV,0.86934
+Campaign day,IPO / market-rally spike,7,672,591,e-Sign,0.87946
+Campaign day,IPO / market-rally spike,8,591,554,Approval,0.93739
+Campaign day,IPO / market-rally spike,9,554,334,Funding,0.60289
+Campaign day,IPO / market-rally spike,10,334,236,First trade,0.70659
+Campaign day,Normal day,1,18066,16321,Registration,0.90341
+Campaign day,Normal day,2,16321,11495,KYC,0.70431
+Campaign day,Normal day,3,11495,9214,Bank,0.80157
+Campaign day,Normal day,4,9214,8466,Details,0.91882
+Campaign day,Normal day,5,8466,7651,Segments,0.90373
+Campaign day,Normal day,6,7651,6522,Selfie/IPV,0.85244
+Campaign day,Normal day,7,6522,5856,e-Sign,0.89788
+Campaign day,Normal day,8,5856,5410,Approval,0.92384
+Campaign day,Normal day,9,5410,3128,Funding,0.57819
+Campaign day,Normal day,10,3128,2192,First trade,0.70077

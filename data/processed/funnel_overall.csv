@@ -1,0 +1,11 @@
+stage_order,stage_name,stage_short,entered,completed,dropped,step_conversion,cumulative_conversion,lost_pct_of_signups
+1,Registration & OTP verification,Registration,20000,18035,1965,0.90175,0.90175,0.09825
+2,PAN & Aadhaar KYC,KYC,18035,12650,5385,0.70141,0.6325,0.26925
+3,Bank account verification,Bank,12650,10135,2515,0.80119,0.50675,0.12575
+4,Personal details & nominee,Details,10135,9308,827,0.9184,0.4654,0.04135
+5,Segment selection & income proof,Segments,9308,8424,884,0.90503,0.4212,0.0442
+6,Selfie / IPV verification,Selfie/IPV,8424,7194,1230,0.85399,0.3597,0.0615
+7,e-Sign,e-Sign,7194,6447,747,0.89616,0.32235,0.03735
+8,Account approval,Approval,6447,5964,483,0.92508,0.2982,0.02415
+9,First funding,Funding,5964,3462,2502,0.58048,0.1731,0.1251
+10,First trade,First trade,3462,2428,1034,0.70133,0.1214,0.0517

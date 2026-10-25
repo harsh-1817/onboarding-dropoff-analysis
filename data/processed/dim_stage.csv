@@ -1,0 +1,11 @@
+stage_order,stage_name,stage_short
+1,Registration & OTP verification,Registration
+2,PAN & Aadhaar KYC,KYC
+3,Bank account verification,Bank
+4,Personal details & nominee,Details
+5,Segment selection & income proof,Segments
+6,Selfie / IPV verification,Selfie/IPV
+7,e-Sign,e-Sign
+8,Account approval,Approval
+9,First funding,Funding
+10,First trade,First trade

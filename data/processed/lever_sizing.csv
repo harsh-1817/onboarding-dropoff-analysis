@@ -1,0 +1,8 @@
+lever_id,lever,stage_order,stage_short,segment_definition,seg_entered,seg_completed,rest_entered,rest_completed,seg_conv,rest_conv,gap_pp,users_lost_in_segment,excess_lost_vs_rest
+L1a,Alternative KYC path for users whose Aadhaar is not linked to their mobile (KYC stage),2,KYC,Aadhaar not linked to mobile,2196,732,15839,11918,0.33333,0.75245,41.91132,1464,920
+L1b,Offline-KYC users blocked at e-Sign (signature step),7,e-Sign,Aadhaar not linked to mobile,446,342,6748,6105,0.76682,0.90471,13.78964,104,62
+L2,Bank-verification fallback (UPI / cancelled-cheque upload) for problem banks,3,Bank,"PNB, Bank of Baroda, Co-operative / other",3948,2659,8702,7476,0.67351,0.85911,18.56073,1289,733
+L3,Save-and-resume with reminders for late-night KYC starters,2,KYC,Signed up 22:00-05:59 (DigiLocker-eligible),1677,1128,14162,10790,0.67263,0.7619,8.92683,549,150
+L4,"Assisted selfie / IPV capture for low-end Android, web and 55+ users",6,Selfie/IPV,"Low-end Android, web or age 55+",3123,2522,5301,4672,0.80756,0.88134,7.37863,601,230
+L5,"First-funding nudges (one-tap UPI, starter offer) for paid-social/influencer users",9,Funding,Influencer / YouTube and Meta / social ads,1402,694,4562,2768,0.49501,0.60675,11.17443,708,157
+L6,Simplified income-proof upload for F&O seekers,5,Segments,Wants F&O,2725,2264,6583,6160,0.83083,0.93574,10.49179,461,286
